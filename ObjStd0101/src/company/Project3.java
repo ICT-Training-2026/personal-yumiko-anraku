@@ -1,5 +1,5 @@
 package company;
 
-public class Product3 {
+public class Project3 {
 
 }
